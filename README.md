@@ -42,7 +42,7 @@ This project demonstrates how to group customers using **K-Means Clustering** ba
 - ✅ **Detailed Table View** for filtering and drill-down
 
 <p align="center">
-  <img src="Screenshot.png" alt="Dashboard Screenshot" width="80%">
+  <img src="Screenshot.png" alt="Customer Segmentation & Marketing Insights Dashboard" width="80%">
 </p>
 
 ---
