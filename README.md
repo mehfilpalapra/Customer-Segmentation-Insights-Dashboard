@@ -42,7 +42,8 @@ This project demonstrates how to group customers using **K-Means Clustering** ba
 - ✅ **Detailed Table View** for filtering and drill-down
 
 <p align="center">
-  <img src="Screenshot.png" alt="Customer Segmentation & Marketing Insights Dashboard" width="80%">
+  ![Customer Segmentation   Marketing Insights Dashboard](https://github.com/user-attachments/assets/0eb430b3-a1af-4c3e-84c7-ed8d551ffa7e)
+
 </p>
 
 ---
