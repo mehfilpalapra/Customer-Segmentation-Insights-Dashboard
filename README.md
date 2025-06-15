@@ -40,6 +40,8 @@ This project demonstrates how to group customers using **K-Means Clustering** ba
 - ✅ **Dynamic Slicers** for Age & Gender
 - ✅ **KPI Cards** (Average Income, Spending Score, Total Customers)
 - ✅ **Detailed Table View** for filtering and drill-down
+
+  
 ![Customer Segmentation   Marketing Insights Dashboard](https://github.com/user-attachments/assets/4e13ed0d-f978-4a6a-8dbd-c1b04dfb8bd0)
 
 ---
